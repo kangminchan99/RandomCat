@@ -1,4 +1,4 @@
-package com.example.randomcat
+package com.minchan.randomcat
 
 import io.flutter.embedding.android.FlutterActivity
 
